@@ -164,11 +164,10 @@ Esta versão é um **protótipo de front-end** para validação com o público-a
 
 | Integrante |
 |---|
-| Esdras Marques |
 | Samuel Rodrigues |
 | João Henrique |
 | Jamerson |
-| Bruno |
+| Pedro Lucas |
 
 ---
 
